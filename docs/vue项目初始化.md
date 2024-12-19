@@ -24,7 +24,7 @@ pnpm create vite@latest
 yarn create vite@latest
 ```
 
-![alt text](image.png)
+![alt text](../public/image.png)
 Typescript:  
 Vue Router: 官方的路由库。  
 Pinia: 官方的状态管理库。  
